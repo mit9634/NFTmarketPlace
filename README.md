@@ -28,13 +28,6 @@ make a .env file in root dir
 
 ## resources and media
 
-youtube:-
-https://www.youtube.com/watch?v=YENynWC0mIw
-
-made by:-
-https://github.com/kairavb (Backend)  
-https://github.com/AryanGupta0007 (Frontend)
-
 docs :-
 https://aptos.dev/en/build/create-aptos-dapp/templates/nft-minting-dapp  
 https://aptos.dev/en/build/smart-contracts/digital-asset#using-the-digital-asset-standard
